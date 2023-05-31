@@ -1,6 +1,10 @@
-# handson-gae-redirect-svr
+# Hands On App Engine Redirect Server 
+
+## 概要
+
 App Engine でリダイレクトサーバを構築するハンズオン
 
+## 1. App Engine のデプロイ
 
 ```
 export _gc_pj_id='Your Google Cloud Project ID'
@@ -19,3 +23,7 @@ gcloud app browse -s redirect-google --project ${_gc_pj_id}
 
 
 ![](./_img/01.png)
+
+## 2. カスタムドメインの設定
+
+WIP
