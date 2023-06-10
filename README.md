@@ -1,4 +1,4 @@
-# Hands On App-Engine of Redirect-Server
+# Hands On Redirect Server on App Engine
 
 ## 概要
 
